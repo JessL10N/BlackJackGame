@@ -1,6 +1,6 @@
 # Black Jack Game
 
-## Javascirpt, CSS, HTML
+## Javascript, CSS, HTML
 
 ## Explored concepts:
 - **arrays**
