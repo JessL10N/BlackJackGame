@@ -1,8 +1,8 @@
-#Black Jack Game
+# Black Jack Game
 
-##Javascirpt, CSS, HTML
+## Javascirpt, CSS, HTML
 
-##Explored concepts:
+## Explored concepts:
 - **arrays**
 - **objects**
 - **booleans**
